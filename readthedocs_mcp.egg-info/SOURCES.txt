@@ -1,0 +1,8 @@
+README.md
+readthedocs.py
+setup.py
+readthedocs_mcp.egg-info/PKG-INFO
+readthedocs_mcp.egg-info/SOURCES.txt
+readthedocs_mcp.egg-info/dependency_links.txt
+readthedocs_mcp.egg-info/requires.txt
+readthedocs_mcp.egg-info/top_level.txt

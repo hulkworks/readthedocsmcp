@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: readthedocs-mcp
+Version: 0.1.0
+Summary: MCP server for Read the Docs documentation
+Author: Your Name
+Author-email: your.email@example.com
+Requires-Python: >=3.10
+Provides-Extra: dev
